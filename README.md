@@ -4,9 +4,9 @@
 
 ## Student Information
 
-- **Name**: Mohan Avinash Kakulavarapu
-- **Student ID**: 700762693
-- **CRN**: 23847
+- **Name**: Charith Reddy Putta
+- **Student ID**: 700759727
+- **CRN**: 23850
 - **Course**: CS5720 Neural Networks and Deep Learning
 - **Semester**: Spring 2025
 
